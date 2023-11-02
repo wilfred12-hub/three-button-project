@@ -4,31 +4,24 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-
 }
-
 
 button {
   width: 250px;
   height: 100px;
   padding: 10px;
   font-size: 20px; 
-
   color: #fff;
-
 }
 
 #red {
   background: #f00;
-
 }
 
 #blue {
   background: #00f;
-
 }
 
 #black {
   background: #000;
-
 }
